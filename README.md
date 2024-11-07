@@ -37,7 +37,7 @@ sub.face_on(alignwith='star',rmax=8) # face on, based on stellar angular momentu
 
 ```
 
-See [examples](examples) for more details,
+See [example](example) for more details,
 
 
 
