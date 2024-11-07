@@ -1,0 +1,5 @@
+__pycache__/
+src/AnaSimba.egg-info/
+src/AnaSimba/__pycache__
+src/AnaSimba/simba_python/__pycache__
+src/AnaSimba/pytreegrav/__pycache__
